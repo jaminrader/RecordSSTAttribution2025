@@ -4,6 +4,7 @@ directory_dict = {
     'figures' : 'figures/',
     'suppfigures' : 'figures/supp/',
     'final_figures' : 'final_figures/',
+    'attribution_estimate' : 'attribution_estimate/',
 }
 
 def get_dir(key):
